@@ -1,4 +1,4 @@
-FROM manticoresearch/manticore:6.2.12
+FROM manticoresearch/manticore:6.3.0
 
 ARG DEBIAN_FRONTEND=noninteractive
 
