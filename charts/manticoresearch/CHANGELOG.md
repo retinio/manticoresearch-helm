@@ -1,3 +1,4 @@
-### 6.2.131
+### 6.3.0
 
-* Check data_dir option before worker starts
+* Update manticore to 6.3.0
+* Remove `log=/dev/stdout` from default configs  
